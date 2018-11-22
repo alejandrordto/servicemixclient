@@ -1,2 +1,2 @@
 # servicemixclient
-por:Alejandro rorigurz del toro
+por:Alejandro roriguez del toro
